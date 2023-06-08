@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T14:38:39 PKT" name="Default suite" finished-at="2023-05-05T14:39:16 PKT" duration-ms="37034">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T14:38:39 PKT" name="Default test" finished-at="2023-05-05T14:39:16 PKT" duration-ms="37034">
+      <class name="com.tutorialninja.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcases.SearchTest@74f0ea28]" started-at="2023-05-05T14:38:39 PKT" name="setup" finished-at="2023-05-05T14:39:11 PKT" duration-ms="32114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchempty()[pri:3, instance:com.tutorialninja.qa.testcases.SearchTest@74f0ea28]" started-at="2023-05-05T14:39:11 PKT" name="searchempty" finished-at="2023-05-05T14:39:12 PKT" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchempty -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialninja.qa.testcases.SearchTest@74f0ea28]" started-at="2023-05-05T14:39:12 PKT" name="teardown" finished-at="2023-05-05T14:39:16 PKT" duration-ms="3720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tutorialninja.qa.testcases.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
